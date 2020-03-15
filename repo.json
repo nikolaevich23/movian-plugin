@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "category": "video",
+      "description": "<p>Rutor.lib (mod):: Свободный торрент трекер<p>Для дополнительной информации, посетите  <a href=\"http://rutor.lib\">http://rutor.lib</a>",
+      "homepage": "https://github.com/nikolaevich23/movian-plugin",
+      "file": "rutor.js",
+      "version": "0.3.4",
+      "id": "rutor",
+      "type": "ecmascript",
+      "author": "in1975",
+      "showtimeVersion": "4.8",
+      "title": "rutor (Mod)",
+      "synopsis": "Rutor.lib :: Свободный торрент трекер",
+      "downloadURL": "https://github.com/nikolaevich23/movian-plugin/raw/master/rutor.zip",
+      "icon": "https://drive.google.com/uc?export=download&id=1cXIqcdmVtQQJE6EbhPh_HCvgwlWpcUJ5"
+    }
+  ]
+}
+
+
+
+
+
+
+
