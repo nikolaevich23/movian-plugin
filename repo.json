@@ -4,7 +4,7 @@
     {
       "category": "video",
       "description": "<p>Rutor.lib (mod):: Свободный торрент трекер<p>Для дополнительной информации, посетите  <a href=\"http://rutor.lib\">http://rutor.lib</a>",
-      "homepage": "https://github.com/nikolaevich23/movian-plugin",
+      "homepage": "https://github.com/nikolaevich23/mp",
       "file": "rutor.js",
       "version": "0.3.4",
       "id": "rutor",
