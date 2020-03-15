@@ -15,9 +15,32 @@
       "synopsis": "Rutor.lib :: Свободный торрент трекер",
       "downloadURL": "https://github.com/nikolaevich23/movian-plugin/raw/master/rutor.zip",
       "icon": "https://drive.google.com/uc?export=download&id=1cXIqcdmVtQQJE6EbhPh_HCvgwlWpcUJ5"
+    },
+    {
+      "description": "<p>Pornhub - Free porn sex videos & pussy movies. Porn hub is the ultimate xxx porn,sex and pussy tube, download sex videos or stream free xxx and free sex movies.</p><p>For searching please use Movian's main search field.</p><p>More info at <a href=\"https://github.com/pisek/showtime-plugin-pornhub\">https://github.com/pisek/showtime-plugin-pornhub</a> and <a href=\"http://www.pornhub.com\">http://www.pornhub.com</a>",
+      "author": "pisek", 
+      "homepage": "https://github.com/pisek/showtime-plugin-pornhub",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1bcorzXPzYBtPXp0AJy9-bCc4quKl6ZOm",
+      "title": "Pornhub (Fix)",
+      "synopsis": "Pornhub - Free porn sex videos & pussy movies. Porn hub is the ultimate xxx porn,sex and pussy tube, download sex videos or stream free xxx and free sex movies.",
+      "version": "1.0.4",
+      "file": "pornhub.js",
+      "showtimeVersion": "4.9.46",
+      "type": "ecmascript",
+      "id": "pornhub",
+      "icon": "https://drive.google.com/uc?export=download&id=1XubbqST76JSXdUCEyix0EgI5ODtbJYWN",
+      "category": "other"
+    }
+  ],
+  "blacklist": [
+    {
+      "id": "zona",
+      "version": "0.0.3"
     }
   ]
 }
+  
+
 
 
 
