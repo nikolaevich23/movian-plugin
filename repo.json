@@ -32,6 +32,21 @@
       "icon": "https://drive.google.com/uc?export=download&id=1yQiZLSFpobofXx_Q9s0KD-yMWaIzVUKm"
     },
 	{
+      "description": "<p>kinozal.tv (Зеркало): Торрент трекер<p>Для дополнительной информации, посетите  <a href=\"https://kinozal-zerkalo.appspot.com\">https://kinozal-zerkalo.appspot.com</a>",
+      "author": "& brinza", 
+      "homepage": "https://kinozal-zerkalo.appspot.com",
+      "title": "kinozal.zerkalo",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1mC8A7n-R09mb6uxQJyDorffLP6pxaHgA",
+      "synopsis": "https://kinozal-zerkalo.appspot.com : Торрент трекер",
+      "version": "Last",
+      "file": "kinozaltv.js",
+      "showtimeVersion": "5",
+      "type": "ecmascript",
+      "icon": "https://drive.google.com/uc?export=download&id=1PgOWydJLGj48M9lFQeSxn0O-L_Xq2Iu2",
+      "id": "kinozal.tv",
+      "category": "video"
+    },
+	{
       "description": "<p>Online TV - (Fix) is M3U/XML playlist loader and collection of online tv sources.<p>For more information visit corresponding websites.",
       "type": "ecmascript",
       "apiversion": 2,
