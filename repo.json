@@ -31,6 +31,21 @@
       "type": "ecmascript",
       "icon": "https://drive.google.com/uc?export=download&id=1yQiZLSFpobofXx_Q9s0KD-yMWaIzVUKm"
     },
+	{
+      "description": "<p>Online TV - (Fix) is M3U/XML playlist loader and collection of online tv sources.<p>For more information visit corresponding websites.",
+      "type": "ecmascript",
+      "apiversion": 2,
+      "homepage": "https://github.com/lprot/movian-plugin-onlinetv",
+      "id": "tv",
+      "file": "tv.js",
+      "showtimeVersion": "4.8",
+      "version": "1.0.20",
+      "author": "lprot",
+      "title": "Online TV (Fix)",
+      "category": "tv",
+      "downloadURL": "http://bit.ly/2vJqyPI",
+      "icon": "https://drive.google.com/uc?export=download&id=1sv5PhlRtuOjHYR7hCcWWOrIjoK-lDsAj"
+    },
     {
       "description": "<p>Pornhub - Free porn sex videos & pussy movies. Porn hub is the ultimate xxx porn,sex and pussy tube, download sex videos or stream free xxx and free sex movies.</p><p>For searching please use Movian's main search field.</p><p>More info at <a href=\"https://github.com/pisek/showtime-plugin-pornhub\">https://github.com/pisek/showtime-plugin-pornhub</a> and <a href=\"http://www.pornhub.com\">http://www.pornhub.com</a>",
       "author": "pisek", 
