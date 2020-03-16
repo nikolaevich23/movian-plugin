@@ -16,6 +16,21 @@
       "downloadURL": "https://github.com/nikolaevich23/movian-plugin/raw/master/rutor.zip",
       "icon": "https://drive.google.com/uc?export=download&id=1cXIqcdmVtQQJE6EbhPh_HCvgwlWpcUJ5"
     },
+	{ 
+      "description": "<p>http://zona.ru/<p>",
+      "author": "dashkodo", 
+      "homepage": "https://github.com/dashkodo/zona-movian-ukr",
+      "id": "zona",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1DLZlhQBzERbQ4CrnG3dTNuAKuC3L7EMT",
+      "title": "zona.ru",
+      "category": "video",
+      "synopsis": "zona ru",
+      "version": "0.0.6",
+      "file": "plugin.js",
+      "showtimeVersion": "4.8",
+      "type": "ecmascript",
+      "icon": "https://drive.google.com/uc?export=download&id=1yQiZLSFpobofXx_Q9s0KD-yMWaIzVUKm"
+    },
     {
       "description": "<p>Pornhub - Free porn sex videos & pussy movies. Porn hub is the ultimate xxx porn,sex and pussy tube, download sex videos or stream free xxx and free sex movies.</p><p>For searching please use Movian's main search field.</p><p>More info at <a href=\"https://github.com/pisek/showtime-plugin-pornhub\">https://github.com/pisek/showtime-plugin-pornhub</a> and <a href=\"http://www.pornhub.com\">http://www.pornhub.com</a>",
       "author": "pisek", 
